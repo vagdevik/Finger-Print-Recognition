@@ -1,6 +1,6 @@
 FingerPrint Recognition
 ------------------------------------
-Author: Vahid. K. Alilou
+
 
 Requirements:
 1) Matlab 2012b + Image Processing toolkit.
@@ -21,6 +21,3 @@ Guide:
 3. main_calc_fmr.m:
     It generates fmr & fnmr diagrams.
 
-
-Please contact me for any more information at
-k.alilou@hotmail.com
